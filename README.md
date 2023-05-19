@@ -4,6 +4,12 @@
   <img src="olsen_banner4.png" alt="banner" />
 </p>
 
+<h3 align="center">I am an Army veteran turned software developer! I am currently enrolled in a full-stack software engineering bootcamp called Code Platoon. I will be attending this course from May to September 2023. After which, I will be searching for my first position as a software developer!</h3>
+
+<p align="center">
+  <img src="gh_gif.gif" alt="animated" />
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pxolsen&label=Profile%20views&color=0e75b6&style=flat" alt="pxolsen" /> </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -15,14 +21,15 @@
 <a href="https://stackoverflow.com/users/21926517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21926517" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxolsen&show_icons=true&locale=en&layout=compact" alt="pxolsen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxolsen&show_icons=true&locale=en" alt="pxolsen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxolsen&" alt="pxolsen" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pxolsen" alt="pxolsen" /></a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxolsen&show_icons=true&locale=en&layout=compact" alt="stats" />
+</p>
 
 <p align="center">
-  <img src="gh_gif.gif" alt="animated" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pxolsen&show_icons=true&locale=en" alt="stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pxolsen&" alt="stats" />
+</p>
+
