@@ -4,7 +4,7 @@
   <img src="olsen_banner4.png" alt="banner" />
 </p>
 
-<h3 align="center">I am an Army veteran turned software developer! I am currently enrolled in a full-stack software engineering bootcamp called Code Platoon. I will be attending this course from May to September 2023. After which, I will be searching for my first position as a software developer!</h3>
+<h4 align="center">I am an Army veteran turned software developer! I am currently enrolled in a full-stack coding bootcamp with an anticipated graduation on September 15th, 2023. Afterwards, I will be applying for my first job as a developer!</h4>
 
 <p align="center">
   <img src="gh_gif.gif" alt="animated" />
