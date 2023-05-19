@@ -1,1 +1,1 @@
-<h1 align="center">(https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)</h1>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=pxolsen&label=Profile%20views&color=0e75b6&style=flat](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)" alt="pxolsen" /> </p>
