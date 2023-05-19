@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pete Olsen</h1>
-
 <p align="center">
   <img src="olsen_banner4.png" alt="banner" />
 </p>
@@ -9,10 +7,6 @@
 <h4 align="center">I have a B.S. in Public Finance from Indiana University and over 6 years of professional experience in the Army. Through the military, I have developed an acute attention to detail, unwavering discipline, and the ability to identify, analyze, and solve complex problems for my organization. I have extensive experience leading and working within autonomous teams in fast-paced dynamic environments. I am a lifelong learner with a dedication to growth and improvement.</h4>
 
 <h4 align="center">Outside of work, I am a devoted sports fan (Go Yankees, Celtics, Giants, and Bruins!). I am also an avid poker player. I enjoy spending time outdoors and going on hikes with my wife and dog. </h4>
-
-<p align="center">
-  <img src="gh_gif.gif" alt="animated" />
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pxolsen&label=Profile%20views&color=0e75b6&style=flat" alt="pxolsen" /> </p>
 
@@ -37,3 +31,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pxolsen&" alt="stats" />
 </p>
 
+
+<p align="center">
+  <img src="gh_gif.gif" alt="animated" />
+</p>
