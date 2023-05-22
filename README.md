@@ -2,11 +2,7 @@
   <img src="olsen_banner4.png" alt="banner" />
 </p>
 
-<h4 align="center">I am an Army veteran turned software developer! I am currently enrolled in a full-stack coding bootcamp with an anticipated graduation on September 15th, 2023. Afterwards, I will be applying for my first job as a developer!</h4>
-
-<h4 align="center">I have a B.S. in Public Finance from Indiana University and over 6 years of professional experience in the Army. Through the military, I have developed an acute attention to detail, unwavering discipline, and the ability to identify, analyze, and solve complex problems for my organization. I have extensive experience leading and working within autonomous teams in fast-paced dynamic environments. I am a lifelong learner with a dedication to growth and improvement.</h4>
-
-<h4 align="center">Outside of work, I am a devoted sports fan (Go Yankees, Celtics, Giants, and Bruins!). I am also an avid poker player. I enjoy spending time outdoors and going on hikes with my wife and dog Ruby. </h4>
+<h4 align="center">I am an Army veteran turned software developer! Currently attending a full-stack bootcamp and learning every day! I will be available for work as a developer beginning November 2023. If you would like to connect please reach out!</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pxolsen&label=Profile%20views&color=0e75b6&style=flat" alt="pxolsen" /> </p>
 
