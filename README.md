@@ -15,13 +15,13 @@
 <a href="https://stackoverflow.com/users/21926517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21926517" height="30" width="40" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxolsen&show_icons=true&locale=en&layout=compact" alt="stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pxolsen&show_icons=true&locale=en" alt="stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pxolsen&" alt="stats" />
