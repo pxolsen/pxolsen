@@ -2,7 +2,7 @@
   <img src="olsen_banner4.png" alt="banner" />
 </p>
 
-<h4 align="center">I'm an Army veteran turned software developer! Currently attending a full-stack bootcamp and learning every day! I am available for work as a developer beginning November 2023. If you would like to connect please reach out!</h4>
+<h4 align="center">I'm an Army Officer turned Full-Stack Software Developer. Recent coding bootcamp grad developing full-stack applications using JavaScript/React, Python/Django, and PostgreSQL.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pxolsen&label=Profile%20views&color=0e75b6&style=flat" alt="pxolsen" /> </p>
 
@@ -25,9 +25,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pxolsen&" alt="stats" />
-</p>
-
-
-<p align="center">
-  <img src="gh_gif.gif" alt="animated" />
 </p>
